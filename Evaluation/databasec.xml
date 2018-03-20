@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9228</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="51" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="14.4">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="109.8" ss:Span="3"/>
+   <Row>
+    <Cell><Data ss:Type="String">70282289889142</Data></Cell>
+    <Cell><Data ss:Type="String">C001</Data></Cell>
+    <Cell><Data ss:Type="String">strcpyA</Data></Cell>
+    <Cell><Data ss:Type="String">Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">93635733202364</Data></Cell>
+    <Cell><Data ss:Type="String">C002</Data></Cell>
+    <Cell><Data ss:Type="String">strcpyW</Data></Cell>
+    <Cell><Data ss:Type="String">Function returns an Intent message that has been passed to the application. Data from Intents should be considered untrusted and be validated for length, data type, content etc.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1283480100077</Data></Cell>
+    <Cell><Data ss:Type="String">C003</Data></Cell>
+    <Cell><Data ss:Type="String">strcpy</Data></Cell>
+    <Cell><Data ss:Type="String">Creates a local file on the device. Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7052961807572856</Data></Cell>
+    <Cell><Data ss:Type="String">C004</Data></Cell>
+    <Cell><Data ss:Type="String">StrCpyNA</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9411659582208280</Data></Cell>
+    <Cell><Data ss:Type="String">C005</Data></Cell>
+    <Cell><Data ss:Type="String">StrCpyNW</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">84082018877291</Data></Cell>
+    <Cell><Data ss:Type="String">C006</Data></Cell>
+    <Cell><Data ss:Type="String">StrCpyN</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7098507911759456</Data></Cell>
+    <Cell><Data ss:Type="String">C007</Data></Cell>
+    <Cell><Data ss:Type="String">StrNCpyA</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9457205686394880</Data></Cell>
+    <Cell><Data ss:Type="String">C008</Data></Cell>
+    <Cell><Data ss:Type="String">StrNCpyW</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">129628123063891</Data></Cell>
+    <Cell><Data ss:Type="String">C009</Data></Cell>
+    <Cell><Data ss:Type="String">StrNCpy</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">70228178480622</Data></Cell>
+    <Cell><Data ss:Type="String">C010</Data></Cell>
+    <Cell><Data ss:Type="String">strcatA</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">93581621793844</Data></Cell>
+    <Cell><Data ss:Type="String">C011</Data></Cell>
+    <Cell><Data ss:Type="String">strcatW</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1229368691557</Data></Cell>
+    <Cell><Data ss:Type="String">C012</Data></Cell>
+    <Cell><Data ss:Type="String">strcat</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7093046026542930</Data></Cell>
+    <Cell><Data ss:Type="String">C013</Data></Cell>
+    <Cell><Data ss:Type="String">lstrcatA</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9451743801178352</Data></Cell>
+    <Cell><Data ss:Type="String">C014</Data></Cell>
+    <Cell><Data ss:Type="String">lstrcatW</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">124166237847365</Data></Cell>
+    <Cell><Data ss:Type="String">C015</Data></Cell>
+    <Cell><Data ss:Type="String">lstrcat</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">C016</Data></Cell>
+    <Cell><Data ss:Type="String">StrCatBuffA</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">C017</Data></Cell>
+    <Cell><Data ss:Type="String">StrCatBuffW</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">C018</Data></Cell>
+    <Cell><Data ss:Type="String">StrCatBuff</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">715774513769276672</Data></Cell>
+    <Cell><Data ss:Type="String">C019</Data></Cell>
+    <Cell><Data ss:Type="String">lstrcatnA</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">954002989007454336</Data></Cell>
+    <Cell><Data ss:Type="String">C020</Data></Cell>
+    <Cell><Data ss:Type="String">lstrcatnW</Data></Cell>
+    <Cell><Data ss:Type="String">This package is flawed and produces predictable values for any given seed which are easily reproducible once the starting seed is identified.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11917655111024476</Data></Cell>
+    <Cell><Data ss:Type="String">C021</Data></Cell>
+    <Cell><Data ss:Type="String">lstrcatn</Data></Cell>
+    <Cell><Data ss:Type="String">Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">12540789604292676</Data></Cell>
+    <Cell><Data ss:Type="String">C022</Data></Cell>
+    <Cell><Data ss:Type="String">lstrncat</Data></Cell>
+    <Cell><Data ss:Type="String">Function returns an Intent message that has been passed to the application. Data from Intents should be considered untrusted and be validated for length, data type, content etc.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">124166233705867</Data></Cell>
+    <Cell><Data ss:Type="String">C023</Data></Cell>
+    <Cell><Data ss:Type="String">strncat</Data></Cell>
+    <Cell><Data ss:Type="String">Creates a local file on the device. Function appears in Microsoft's banned function list. Can facilitate buffer overflow conditions.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1136252147779</Data></Cell>
+    <Cell><Data ss:Type="String">C024</Data></Cell>
+    <Cell><Data ss:Type="String">strtok</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1136252156264</Data></Cell>
+    <Cell><Data ss:Type="String">C025</Data></Cell>
+    <Cell><Data ss:Type="String">tcstok</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1136252156267</Data></Cell>
+    <Cell><Data ss:Type="String">C026</Data></Cell>
+    <Cell><Data ss:Type="String">wcstok</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1136252156156</Data></Cell>
+    <Cell><Data ss:Type="String">C027</Data></Cell>
+    <Cell><Data ss:Type="String">mbstok</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11274375239057944</Data></Cell>
+    <Cell><Data ss:Type="String">C001</Data></Cell>
+    <Cell><Data ss:Type="String">makepath</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1138711900703810432</Data></Cell>
+    <Cell><Data ss:Type="String">C029</Data></Cell>
+    <Cell><Data ss:Type="String">splitpath</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10728493623</Data></Cell>
+    <Cell><Data ss:Type="String">C030</Data></Cell>
+    <Cell><Data ss:Type="String">scanf</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">119678235</Data></Cell>
+    <Cell><Data ss:Type="String">C031</Data></Cell>
+    <Cell><Data ss:Type="String">gets</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">12087654651</Data></Cell>
+    <Cell><Data ss:Type="String">C032</Data></Cell>
+    <Cell><Data ss:Type="String">getts</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1166733611352</Data></Cell>
+    <Cell><Data ss:Type="String">C033</Data></Cell>
+    <Cell><Data ss:Type="String">wcslen</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">117840093889372</Data></Cell>
+    <Cell><Data ss:Type="String">C034</Data></Cell>
+    <Cell><Data ss:Type="String">lstrlen</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">129631484802770</Data></Cell>
+    <Cell><Data ss:Type="String">C035</Data></Cell>
+    <Cell><Data ss:Type="String">wmemcpy</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">C036</Data></Cell>
+    <Cell><Data ss:Type="String">CopyMemory</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1029897204420</Data></Cell>
+    <Cell><Data ss:Type="String">C037</Data></Cell>
+    <Cell><Data ss:Type="String">alloca</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">108465391199358</Data></Cell>
+    <Cell><Data ss:Type="String">C038</Data></Cell>
+    <Cell><Data ss:Type="String">memmove</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">106268466860738</Data></Cell>
+    <Cell><Data ss:Type="String">C039</Data></Cell>
+    <Cell><Data ss:Type="String">realloc</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">109505783019474</Data></Cell>
+    <Cell><Data ss:Type="String">C040</Data></Cell>
+    <Cell><Data ss:Type="String">sprintf</Data></Cell>
+    <Cell><Data ss:Type="String">This package is flawed and produces predictable values for any given seed which are easily reproducible once the starting seed is identified.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11060084084966984</Data></Cell>
+    <Cell><Data ss:Type="String">C041</Data></Cell>
+    <Cell><Data ss:Type="String">nsprintf</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11060084084966992</Data></Cell>
+    <Cell><Data ss:Type="String">C042</Data></Cell>
+    <Cell><Data ss:Type="String">vsprintf</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">C043</Data></Cell>
+    <Cell><Data ss:Type="String">IsBadWritePtr</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11551858353</Data></Cell>
+    <Cell><Data ss:Type="String">C044</Data></Cell>
+    <Cell><Data ss:Type="String">wopen</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11551858336</Data></Cell>
+    <Cell><Data ss:Type="String">C045</Data></Cell>
+    <Cell><Data ss:Type="String">fopen</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">114374834</Data></Cell>
+    <Cell><Data ss:Type="String">C046</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">115558041</Data></Cell>
+    <Cell><Data ss:Type="String">C047</Data></Cell>
+    <Cell><Data ss:Type="String">goto</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1062566100049</Data></Cell>
+    <Cell><Data ss:Type="String">C048</Data></Cell>
+    <Cell><Data ss:Type="String">rewind</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11253948145</Data></Cell>
+    <Cell><Data ss:Type="String">C049</Data></Cell>
+    <Cell><Data ss:Type="String">umask</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">123304606391947</Data></Cell>
+    <Cell><Data ss:Type="String">C050</Data></Cell>
+    <Cell><Data ss:Type="String">catgets</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1251743757249</Data></Cell>
+    <Cell><Data ss:Type="String">C051</Data></Cell>
+    <Cell><Data ss:Type="String">getenv</Data></Cell>
+    <Cell><Data ss:Type="String">This package is flawed and produces predictable values for any given seed which are easily reproducible once the starting seed is identified.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

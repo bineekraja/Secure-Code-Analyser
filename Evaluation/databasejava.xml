@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9228</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="20" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="14.4">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="109.8" ss:Span="3"/>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J001</Data></Cell>
+    <Cell><Data ss:Type="String">createDatabase</Data></Cell>
+    <Cell><Data ss:Type="String">This function is dangerous with user controlled parameters and in the case of mobile devices should be regarded with suspicion - sensitive data should not be stored on the device.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1268015711631668480</Data></Cell>
+    <Cell><Data ss:Type="String">J002</Data></Cell>
+    <Cell><Data ss:Type="String">getIntent</Data></Cell>
+    <Cell><Data ss:Type="String">Function returns an Intent message that has been passed to the application. Data from Intents should be considered untrusted and be validated for length, data type, content etc.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J003</Data></Cell>
+    <Cell><Data ss:Type="String">openFileOutput</Data></Cell>
+    <Cell><Data ss:Type="String">Creates a local file on the device. This function is dangerous with user controlled parameters and in the case of mobile devices should be regarded with suspicion - sensitive data should not be stored on the device.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J004</Data></Cell>
+    <Cell><Data ss:Type="String">FileInputStream</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J005</Data></Cell>
+    <Cell><Data ss:Type="String">FilterInputStream</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J006</Data></Cell>
+    <Cell><Data ss:Type="String">SequenceInputStream</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J007</Data></Cell>
+    <Cell><Data ss:Type="String">ObjectInputStream</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J008</Data></Cell>
+    <Cell><Data ss:Type="String">PipedInputStream</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J009</Data></Cell>
+    <Cell><Data ss:Type="String">StreamTokenizer</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J010</Data></Cell>
+    <Cell><Data ss:Type="String">getResourceAsStream</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J011</Data></Cell>
+    <Cell><Data ss:Type="String">java.io.FileReader</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J012</Data></Cell>
+    <Cell><Data ss:Type="String">java.io.FileWriter</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J013</Data></Cell>
+    <Cell><Data ss:Type="String">java.io.RandomAccessFile</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J014</Data></Cell>
+    <Cell><Data ss:Type="String">java.io.File</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J015</Data></Cell>
+    <Cell><Data ss:Type="String">java.io.FileOutputStream</Data></Cell>
+    <Cell><Data ss:Type="String">This function acts as an entry point for external data and the code should be manually checked to ensure the data obtained is correctly validated and/or sanitised. Additionally, carefull checks/sanitisation should be applied in any situation where the user may be able to control or affect the filename.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J016</Data></Cell>
+    <Cell><Data ss:Type="String">getParameterNames</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J017</Data></Cell>
+    <Cell><Data ss:Type="String">getParameter</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J018</Data></Cell>
+    <Cell><Data ss:Type="String">getParameterValues</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J019</Data></Cell>
+    <Cell><Data ss:Type="String">getParamaterMap</Data></Cell>
+    <Cell><Data ss:Type="String">This function extracts data directly from the HTTP request. Manually check the code to ensure the data obtained is correctly validated and/or sanitised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9223372036854775807</Data></Cell>
+    <Cell><Data ss:Type="String">J020</Data></Cell>
+    <Cell><Data ss:Type="String">java.util.Random</Data></Cell>
+    <Cell><Data ss:Type="String">This package is flawed and produces predictable values for any given seed which are easily reproducible once the starting seed is identified.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

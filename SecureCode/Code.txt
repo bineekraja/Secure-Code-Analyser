@@ -1,0 +1,6 @@
+FilterInputStream
+SequenceInputStream
+ObjectInputStream
+PipedInputStream
+StreamTokenizer
+getResourceAsStream
